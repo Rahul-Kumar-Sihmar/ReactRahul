@@ -1,0 +1,22 @@
+Boolean Operations
+
+Common logical operations that work with booleans:
+
+AND (&&) - True only if both operands are true
+OR (||) - True if at least one operand is true
+NOT (!) - Inverts the value (true becomes false and vice versa)
+
+# Example in Javascript
+
+// Boolean variables
+let isOnline = true;
+let hasPermission = false;
+
+// Boolean expressions
+console.log(10 > 5); // true
+console.log(10 === '10'); // false
+
+// Logical operations
+console.log(true && false); // false
+console.log(true || false); // true
+console.log(!true); // false
