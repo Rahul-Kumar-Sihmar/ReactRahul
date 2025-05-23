@@ -9,6 +9,13 @@ git push
 #from github to laptop
 git pull
 
+#**Short code**
+cd your-project-folder
+npm start
+npm run dev 
+
+
+
 ```
 # React Commands 
 ```sh
