@@ -1,3 +1,5 @@
+# All code shortcut 
+
 # git commands
 ```sh
 # from laptop to github
